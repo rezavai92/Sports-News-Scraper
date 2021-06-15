@@ -1,6 +1,6 @@
  # Sports News Scraper from "THE DAILY STAR" 
  
-A small web scraping project focused on scraping only the sports section of renowned bangladeshi newspaper  **"The Daily Star"**  .We going to grab following parts from the sports section
+A small web scraping project focused on scraping only the sports section of renowned bangladeshi newspaper  **"The Daily Star"**  .We are going to grab following parts from the sports section
  
  - #### Featured Sports News
  - #### Latest News
